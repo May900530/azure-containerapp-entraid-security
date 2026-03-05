@@ -247,4 +247,3 @@ az group delete --name rg-demo-ca --yes --no-wait
 
 - Documentación oficial de Azure Container Apps: https://learn.microsoft.com/azure/container-apps/
 - Documentación de Microsoft Entra ID: https://learn.microsoft.com/entra/identity/
-- Comunidad de Azure y DevOps Engineers
