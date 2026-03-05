@@ -4,7 +4,7 @@ Implementación de una aplicación web en Azure Container Apps con autenticació
 
 ## Descripción del Proyecto
 
-Este proyecto demuestra el despliegue de una aplicación Node.js en Azure Container Apps, implementando autenticación basada en Entra ID (Azure Active Directory) y aplicando principios de seguridad mediante RBAC (Role-Based Access Control).
+Este proyecto demuestra el despliegue de una aplicación Node.js en Azure Container Apps, implementando autenticación basada en Entra ID y aplicando principios de seguridad mediante RBAC (Role-Based Access Control).
 
 ## Arquitectura
 
